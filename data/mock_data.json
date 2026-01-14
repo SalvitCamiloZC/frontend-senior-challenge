@@ -1,0 +1,1329 @@
+{
+    "clients": [
+        {
+            "id": "client_01",
+            "name": "Visionary Tech Store"
+        },
+        {
+            "id": "client_02",
+            "name": "EcoHome Living"
+        },
+        {
+            "id": "client_03",
+            "name": "Elite Sports Gear"
+        }
+    ],
+    "products": [
+        {
+            "sku": "CLI-SMA-4240",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Model 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-SMA-1083",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Model 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-SMA-9013",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Model 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-SMA-9883",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Model 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-8867",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Model 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-7051",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Model 1",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-SMA-5720",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Model 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-SMA-8360",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Model 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-3283",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Model 4",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-LAP-9845",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Model 1",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-LAP-2444",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Model 2",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-LAP-6655",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Model 3",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-LAP-7167",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Model 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-5585",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Model 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-6930",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Model 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-7938",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Model 2",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-LAP-2626",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Model 3",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-LAP-8903",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Model 4",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-LAP-5377",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Model 5",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-WEA-5482",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Model 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-4598",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Model 2",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-8841",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Model 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-1201",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Model 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-6270",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Model 5",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-WEA-7967",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Model 1",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-7787",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Model 2",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-WEA-7750",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Model 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-5286",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Model 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-6814",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Model 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-1128",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_0",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series A - Model 1",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-KIT-8672",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_0",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series A - Model 2",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-1343",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_0",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series A - Model 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-KIT-2861",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_0",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series A - Model 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-KIT-6554",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Model 1",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-5432",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Model 2",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-KIT-4691",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Model 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-6080",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Model 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-9287",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Model 1",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-4074",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Model 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-1982",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Model 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-2853",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Model 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-1403",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Model 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-5213",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Model 1",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-2069",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Model 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-2021",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Model 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FUR-1900",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Model 1",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-FUR-5706",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Model 2",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FUR-3899",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Model 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FUR-3971",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Model 4",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-FUR-3001",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Model 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-4205",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_1",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series B - Model 1",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-FUR-4288",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_1",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series B - Model 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-1936",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_1",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series B - Model 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FOO-3446",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_0",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series A - Model 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FOO-7537",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_0",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series A - Model 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FOO-7443",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_0",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series A - Model 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FOO-4837",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_0",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series A - Model 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FOO-6123",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Model 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FOO-3390",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Model 2",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-FOO-4938",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Model 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FOO-5303",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Model 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FOO-8581",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Model 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-3133",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Model 1",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-APP-5070",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Model 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-4208",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Model 3",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-APP-4284",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Model 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-APP-5753",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Model 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-4681",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Model 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-9832",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Model 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-5664",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Model 3",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-APP-7182",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Model 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-3882",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Model 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-5014",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Model 2",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-EQU-4520",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Model 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-6864",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Model 1",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-2603",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Model 2",
+            "platform": "Walmart"
+        },
+        {
+            "sku": "CLI-EQU-5495",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Model 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-7196",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Model 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-3292",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Model 5",
+            "platform": "Shopify"
+        }
+    ],
+    "titles": [
+        {
+            "id": "title_cat_client_01_smartphones_0",
+            "name": "Smartphones Series A",
+            "categoryId": "cat_client_01_smartphones",
+            "client_id": "client_01"
+        },
+        {
+            "id": "title_cat_client_01_smartphones_1",
+            "name": "Smartphones Series B",
+            "categoryId": "cat_client_01_smartphones",
+            "client_id": "client_01"
+        },
+        {
+            "id": "title_cat_client_01_laptops_0",
+            "name": "Laptops Series A",
+            "categoryId": "cat_client_01_laptops",
+            "client_id": "client_01"
+        },
+        {
+            "id": "title_cat_client_01_laptops_1",
+            "name": "Laptops Series B",
+            "categoryId": "cat_client_01_laptops",
+            "client_id": "client_01"
+        },
+        {
+            "id": "title_cat_client_01_wearables_0",
+            "name": "Wearables Series A",
+            "categoryId": "cat_client_01_wearables",
+            "client_id": "client_01"
+        },
+        {
+            "id": "title_cat_client_01_wearables_1",
+            "name": "Wearables Series B",
+            "categoryId": "cat_client_01_wearables",
+            "client_id": "client_01"
+        },
+        {
+            "id": "title_cat_client_02_kitchenware_0",
+            "name": "Kitchenware Series A",
+            "categoryId": "cat_client_02_kitchenware",
+            "client_id": "client_02"
+        },
+        {
+            "id": "title_cat_client_02_kitchenware_1",
+            "name": "Kitchenware Series B",
+            "categoryId": "cat_client_02_kitchenware",
+            "client_id": "client_02"
+        },
+        {
+            "id": "title_cat_client_02_bedding_0",
+            "name": "Bedding Series A",
+            "categoryId": "cat_client_02_bedding",
+            "client_id": "client_02"
+        },
+        {
+            "id": "title_cat_client_02_bedding_1",
+            "name": "Bedding Series B",
+            "categoryId": "cat_client_02_bedding",
+            "client_id": "client_02"
+        },
+        {
+            "id": "title_cat_client_02_furniture_0",
+            "name": "Furniture Series A",
+            "categoryId": "cat_client_02_furniture",
+            "client_id": "client_02"
+        },
+        {
+            "id": "title_cat_client_02_furniture_1",
+            "name": "Furniture Series B",
+            "categoryId": "cat_client_02_furniture",
+            "client_id": "client_02"
+        },
+        {
+            "id": "title_cat_client_03_footwear_0",
+            "name": "Footwear Series A",
+            "categoryId": "cat_client_03_footwear",
+            "client_id": "client_03"
+        },
+        {
+            "id": "title_cat_client_03_footwear_1",
+            "name": "Footwear Series B",
+            "categoryId": "cat_client_03_footwear",
+            "client_id": "client_03"
+        },
+        {
+            "id": "title_cat_client_03_apparel_0",
+            "name": "Apparel Series A",
+            "categoryId": "cat_client_03_apparel",
+            "client_id": "client_03"
+        },
+        {
+            "id": "title_cat_client_03_apparel_1",
+            "name": "Apparel Series B",
+            "categoryId": "cat_client_03_apparel",
+            "client_id": "client_03"
+        },
+        {
+            "id": "title_cat_client_03_equipment_0",
+            "name": "Equipment Series A",
+            "categoryId": "cat_client_03_equipment",
+            "client_id": "client_03"
+        },
+        {
+            "id": "title_cat_client_03_equipment_1",
+            "name": "Equipment Series B",
+            "categoryId": "cat_client_03_equipment",
+            "client_id": "client_03"
+        }
+    ],
+    "categories": [
+        {
+            "id": "cat_client_01_smartphones",
+            "name": "Smartphones",
+            "client_id": "client_01"
+        },
+        {
+            "id": "cat_client_01_laptops",
+            "name": "Laptops",
+            "client_id": "client_01"
+        },
+        {
+            "id": "cat_client_01_wearables",
+            "name": "Wearables",
+            "client_id": "client_01"
+        },
+        {
+            "id": "cat_client_02_kitchenware",
+            "name": "Kitchenware",
+            "client_id": "client_02"
+        },
+        {
+            "id": "cat_client_02_bedding",
+            "name": "Bedding",
+            "client_id": "client_02"
+        },
+        {
+            "id": "cat_client_02_furniture",
+            "name": "Furniture",
+            "client_id": "client_02"
+        },
+        {
+            "id": "cat_client_03_footwear",
+            "name": "Footwear",
+            "client_id": "client_03"
+        },
+        {
+            "id": "cat_client_03_apparel",
+            "name": "Apparel",
+            "client_id": "client_03"
+        },
+        {
+            "id": "cat_client_03_equipment",
+            "name": "Equipment",
+            "client_id": "client_03"
+        }
+    ],
+    "cogs_rules": [
+        {
+            "id": "rule_cat_cat_client_01_smartphones",
+            "client_id": "client_01",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_01_smartphones",
+            "value": 57.93,
+            "startDate": null,
+            "endDate": null,
+            "description": "General Smartphones Cost"
+        },
+        {
+            "id": "rule_cat_cat_client_01_laptops",
+            "client_id": "client_01",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_01_laptops",
+            "value": 83.49,
+            "startDate": null,
+            "endDate": null,
+            "description": "General Laptops Cost"
+        },
+        {
+            "id": "rule_cat_cat_client_01_wearables",
+            "client_id": "client_01",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_01_wearables",
+            "value": 114.67,
+            "startDate": null,
+            "endDate": null,
+            "description": "General Wearables Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_01_smartphones_0",
+            "client_id": "client_01",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_01_smartphones_0",
+            "value": 208.52,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Bulk Smartphones Series A Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-SMA-4240",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-SMA-4240",
+            "value": 367.99,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_sku_CLI-SMA-1083",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-SMA-1083",
+            "value": 403.0,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_sku_CLI-SMA-8867",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-SMA-8867",
+            "value": 398.76,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_01_smartphones_1",
+            "client_id": "client_01",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_01_smartphones_1",
+            "value": 248.07,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Bulk Smartphones Series B Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-SMA-3283",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-SMA-3283",
+            "value": 450.68,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_01_laptops_0",
+            "client_id": "client_01",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_01_laptops_0",
+            "value": 283.19,
+            "startDate": null,
+            "endDate": null,
+            "description": "Bulk Laptops Series A Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-LAP-7167",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-LAP-7167",
+            "value": 453.65,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_01_laptops_1",
+            "client_id": "client_01",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_01_laptops_1",
+            "value": 188.98,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Bulk Laptops Series B Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-LAP-7938",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-LAP-7938",
+            "value": 399.42,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_sku_CLI-LAP-8903",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-LAP-8903",
+            "value": 444.35,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_01_wearables_0",
+            "client_id": "client_01",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_01_wearables_0",
+            "value": 239.3,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Bulk Wearables Series A Pricing"
+        },
+        {
+            "id": "rule_title_title_cat_client_01_wearables_1",
+            "client_id": "client_01",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_01_wearables_1",
+            "value": 293.45,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Bulk Wearables Series B Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-WEA-7967",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-WEA-7967",
+            "value": 491.22,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_sku_CLI-WEA-7787",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-WEA-7787",
+            "value": 477.21,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_sku_CLI-WEA-7750",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-WEA-7750",
+            "value": 346.84,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_sku_CLI-WEA-6814",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-WEA-6814",
+            "value": 325.88,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_cat_cat_client_02_kitchenware",
+            "client_id": "client_02",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_02_kitchenware",
+            "value": 91.97,
+            "startDate": null,
+            "endDate": null,
+            "description": "General Kitchenware Cost"
+        },
+        {
+            "id": "rule_cat_cat_client_02_bedding",
+            "client_id": "client_02",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_02_bedding",
+            "value": 149.51,
+            "startDate": null,
+            "endDate": null,
+            "description": "General Bedding Cost"
+        },
+        {
+            "id": "rule_cat_cat_client_02_furniture",
+            "client_id": "client_02",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_02_furniture",
+            "value": 144.29,
+            "startDate": null,
+            "endDate": null,
+            "description": "General Furniture Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_02_kitchenware_0",
+            "client_id": "client_02",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_02_kitchenware_0",
+            "value": 167.29,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Bulk Kitchenware Series A Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-KIT-1128",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-KIT-1128",
+            "value": 498.3,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_sku_CLI-KIT-2861",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-KIT-2861",
+            "value": 395.57,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_02_kitchenware_1",
+            "client_id": "client_02",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_02_kitchenware_1",
+            "value": 249.79,
+            "startDate": null,
+            "endDate": null,
+            "description": "Bulk Kitchenware Series B Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-KIT-4691",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-KIT-4691",
+            "value": 404.81,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_sku_CLI-KIT-6080",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-KIT-6080",
+            "value": 420.51,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_02_bedding_0",
+            "client_id": "client_02",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_02_bedding_0",
+            "value": 167.49,
+            "startDate": null,
+            "endDate": null,
+            "description": "Bulk Bedding Series A Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-BED-2853",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-BED-2853",
+            "value": 372.41,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_02_bedding_1",
+            "client_id": "client_02",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_02_bedding_1",
+            "value": 186.0,
+            "startDate": null,
+            "endDate": null,
+            "description": "Bulk Bedding Series B Pricing"
+        },
+        {
+            "id": "rule_title_title_cat_client_02_furniture_0",
+            "client_id": "client_02",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_02_furniture_0",
+            "value": 245.58,
+            "startDate": null,
+            "endDate": null,
+            "description": "Bulk Furniture Series A Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-FUR-1900",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-FUR-1900",
+            "value": 441.5,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_sku_CLI-FUR-3001",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-FUR-3001",
+            "value": 334.62,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_02_furniture_1",
+            "client_id": "client_02",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_02_furniture_1",
+            "value": 193.7,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Bulk Furniture Series B Pricing"
+        },
+        {
+            "id": "rule_cat_cat_client_03_footwear",
+            "client_id": "client_03",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_03_footwear",
+            "value": 141.92,
+            "startDate": null,
+            "endDate": null,
+            "description": "General Footwear Cost"
+        },
+        {
+            "id": "rule_cat_cat_client_03_apparel",
+            "client_id": "client_03",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_03_apparel",
+            "value": 132.23,
+            "startDate": null,
+            "endDate": null,
+            "description": "General Apparel Cost"
+        },
+        {
+            "id": "rule_cat_cat_client_03_equipment",
+            "client_id": "client_03",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_03_equipment",
+            "value": 61.56,
+            "startDate": null,
+            "endDate": null,
+            "description": "General Equipment Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_03_footwear_0",
+            "client_id": "client_03",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_03_footwear_0",
+            "value": 223.22,
+            "startDate": null,
+            "endDate": null,
+            "description": "Bulk Footwear Series A Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-FOO-4837",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-FOO-4837",
+            "value": 331.91,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_03_footwear_1",
+            "client_id": "client_03",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_03_footwear_1",
+            "value": 277.57,
+            "startDate": null,
+            "endDate": null,
+            "description": "Bulk Footwear Series B Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-FOO-3390",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-FOO-3390",
+            "value": 407.94,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_sku_CLI-FOO-5303",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-FOO-5303",
+            "value": 443.28,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_03_apparel_0",
+            "client_id": "client_03",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_03_apparel_0",
+            "value": 231.74,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Bulk Apparel Series A Pricing"
+        },
+        {
+            "id": "rule_title_title_cat_client_03_apparel_1",
+            "client_id": "client_03",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_03_apparel_1",
+            "value": 186.17,
+            "startDate": null,
+            "endDate": null,
+            "description": "Bulk Apparel Series B Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-APP-4681",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-APP-4681",
+            "value": 489.42,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_sku_CLI-APP-5664",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-APP-5664",
+            "value": 422.05,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_03_equipment_0",
+            "client_id": "client_03",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_03_equipment_0",
+            "value": 182.72,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Bulk Equipment Series A Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-EQU-4520",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-EQU-4520",
+            "value": 329.6,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        },
+        {
+            "id": "rule_title_title_cat_client_03_equipment_1",
+            "client_id": "client_03",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_03_equipment_1",
+            "value": 228.4,
+            "startDate": null,
+            "endDate": null,
+            "description": "Bulk Equipment Series B Pricing"
+        },
+        {
+            "id": "rule_sku_CLI-EQU-7196",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-EQU-7196",
+            "value": 401.61,
+            "startDate": "2025-12-13",
+            "endDate": "2026-02-11",
+            "description": "Specific SKU Promo Cost"
+        }
+    ]
+}

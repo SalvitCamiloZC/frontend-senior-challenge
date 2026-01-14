@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salvit Advisors - Unified Brand System</title>
+    <link href="/images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+    <link href="/images/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Barlow:wght@600;700;800&display=swap" rel="stylesheet">
+    <script>
+        // --- THIS IS YOUR UNIFIED BRAND CONFIG ---
+        // You can copy this config into any new Tailwind project
+        // to get your exact brand fonts and colors.
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'inter': ['Inter', 'sans-serif'],
+                        'barlow': ['Barlow', 'sans-serif'],
+                    },
+                    colors: {
+                        'brand': {
+                            'blue': '#002D72',    // Primary Brand Blue (from lifttested/onboard)
+                            'blue-dark': '#062a70', // Legacy Agency Blue
+                            'orange': '#F47C1F',  // Primary CTA Orange (from lifttested/onboard)
+                            'indigo': '#4f46e5',  // Accent Indigo (from report)
+                            'indigo-dark': '#3730a3' // Darker Indigo (from report)
+                        },
+                        'semantic': {
+                            'success': '#10b981', // Favorable
+                            'danger': '#ef4444',  // Adverse
+                            'warning': '#f59e0b', // Business Impact / Weak
+                            'info': '#3b82f6'     // Metric Highlight
+                        },
+                        // We will use Tailwind's `slate` for neutrals
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { font-family: 'inter', sans-serif; }
+        h1, h2, h3 { font-family: 'barlow', sans-serif; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-700">
+
+    <!-- Header -->
+    <header class="bg-white shadow-sm">
+        <div class="max-w-6xl mx-auto p-6 flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <img src="/images/logos/salvit-logo.png" alt="Salvit Advisors Logo" class="h-10">
+                <div class="text-xl font-semibold text-slate-800">Unified Brand System</div>
+            </div>
+            <div class="font-barlow text-lg text-brand-blue">Salvit Advisors</div>
+        </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto p-8 mt-8">
+
+        <!-- 1. Typography -->
+        <section id="typography">
+            <h1 class="text-4xl font-bold text-slate-900 border-b pb-4 mb-6">1. Typography</h1>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                    <h2 class="text-2xl font-semibold mb-4">Fonts</h2>
+                    <div class="bg-white p-6 rounded-lg shadow-sm border">
+                        <p class="text-6xl font-barlow font-bold text-brand-blue">Barlow</p>
+                        <p class="text-slate-600">Used for all primary headings (H1, H2, H3). Conveys authority and stability.</p>
+                        <p class="mt-4 text-sm font-semibold text-slate-500">CLASSES: `font-barlow`</p>
+                    </div>
+                </div>
+                <div>
+                    <h2 class="text-2xl font-semibold mb-4">&nbsp;</h2>
+                    <div class="bg-white p-6 rounded-lg shadow-sm border">
+                        <p class="text-6xl font-inter font-bold text-slate-800">Inter</p>
+                        <p class="text-slate-600">Used for all body copy, UI elements, and data. Ensures maximum readability.</p>
+                        <p class="mt-4 text-sm font-semibold text-slate-500">CLASSES: `font-inter`</p>
+                    </div>
+                </div>
+            </div>
+
+            <h2 class="text-2xl font-semibold mt-12 mb-4">Type Scale & Hierarchy</h2>
+            <div class="bg-white p-8 rounded-lg shadow-sm border space-y-6">
+                <div>
+                    <p class="text-sm text-slate-500">H1 - Page Title (`text-4xl font-extrabold font-barlow`)</p>
+                    <p class="text-4xl font-extrabold font-barlow text-slate-900">E-commerce Health Check</p>
+                </div>
+                <div>
+                    <p class="text-sm text-slate-500">H2 - Section Head (`text-3xl font-bold font-barlow`)</p>
+                    <p class="text-3xl font-bold font-barlow text-slate-800">The Profitability Problem</p>
+                </div>
+                <div>
+                    <p class="text-sm text-slate-500">H3 - Sub-Section Head (`text-xl font-semibold font-barlow`)</p>
+                    <p class="text-xl font-semibold font-barlow text-brand-blue">Lever 1: Increase LTR</p>
+                </div>
+                <div>
+                    <p class="text-sm text-slate-500">Body Copy (`text-base text-slate-700`)</p>
+                    <p class="text-base text-slate-700 max-w-2xl">This is the standard body text. Your current acquisition model isn't profitable within 6 months. Fixing unit economics is crucial before scaling investment.</p>
+                </div>
+                <div>
+                    <p class="text-sm text-slate-500">KPI Label (`text-sm font-medium text-slate-500 uppercase tracking-wider`)</p>
+                    <p class="text-sm font-medium text-slate-500 uppercase tracking-wider">Contribution Margin</p>
+                </div>
+                <div>
+                    <p class="text-sm text-slate-500">Small/Muted (`text-xs text-slate-400`)</p>
+                    <p class="text-xs text-slate-400">Current</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- 2. Color Palette -->
+        <section id="colors" class="mt-16">
+            <h1 class="text-4xl font-bold text-slate-900 border-b pb-4 mb-6">2. Color Palette</h1>
+            
+            <h2 class="text-2xl font-semibold mt-8 mb-4">Primary & Brand Colors</h2>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div class="bg-white rounded-lg shadow-sm border overflow-hidden">
+                    <div class="h-32 bg-brand-blue"></div>
+                    <div class="p-4">
+                        <p class="font-semibold text-slate-800">Brand Blue</p>
+                        <p class="text-sm text-slate-500">#002D72</p>
+                        <p class="text-sm font-mono text-indigo-600">bg-brand-blue</p>
+                    </div>
+                </div>
+                <div class="bg-white rounded-lg shadow-sm border overflow-hidden">
+                    <div class="h-32 bg-brand-orange"></div>
+                    <div class="p-4">
+                        <p class="font-semibold text-slate-800">Brand Orange (CTA)</p>
+                        <p class="text-sm text-slate-500">#F47C1F</p>
+                        <p class="text-sm font-mono text-indigo-600">bg-brand-orange</p>
+                    </div>
+                </div>
+                <div class="bg-white rounded-lg shadow-sm border overflow-hidden">
+                    <div class="h-32 bg-brand-indigo"></div>
+                    <div class="p-4">
+                        <p class="font-semibold text-slate-800">Accent Indigo (Data)</p>
+                        <p class="text-sm text-slate-500">#4f46e5</p>
+                        <p class="text-sm font-mono text-indigo-600">bg-brand-indigo</p>
+                    </div>
+                </div>
+                 <div class="bg-white rounded-lg shadow-sm border overflow-hidden">
+                    <div class="h-32 bg-brand-blue-dark"></div>
+                    <div class="p-4">
+                        <p class="font-semibold text-slate-800">Legacy Blue (Agency)</p>
+                        <p class="text-sm text-slate-500">#062a70</p>
+                        <p class="text-sm font-mono text-indigo-600">bg-brand-blue-dark</p>
+                    </div>
+                </div>
+            </div>
+
+            <h2 class="text-2xl font-semibold mt-8 mb-4">Semantic (Status) Colors</h2>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div class="bg-white rounded-lg shadow-sm border overflow-hidden">
+                    <div class="h-32 bg-semantic-success"></div>
+                    <div class="p-4"><p class="font-semibold text-slate-800">Success</p><p class="text-sm text-slate-500">#10b981</p><p class="text-sm font-mono text-indigo-600">bg-semantic-success</p></div>
+                </div>
+                <div class="bg-white rounded-lg shadow-sm border overflow-hidden">
+                    <div class="h-32 bg-semantic-danger"></div>
+                    <div class="p-4"><p class="font-semibold text-slate-800">Danger</p><p class="text-sm text-slate-500">#ef4444</p><p class="text-sm font-mono text-indigo-600">bg-semantic-danger</p></div>
+                </div>
+                <div class="bg-white rounded-lg shadow-sm border overflow-hidden">
+                    <div class="h-32 bg-semantic-warning"></div>
+                    <div class="p-4"><p class="font-semibold text-slate-800">Warning</p><p class="text-sm text-slate-500">#f59e0b</p><p class="text-sm font-mono text-indigo-600">bg-semantic-warning</p></div>
+                </div>
+                <div class="bg-white rounded-lg shadow-sm border overflow-hidden">
+                    <div class="h-32 bg-semantic-info"></div>
+                    <div class="p-4"><p class="font-semibold text-slate-800">Info</p><p class="text-sm text-slate-500">#3b82f6</p><p class="text-sm font-mono text-indigo-600">bg-semantic-info</p></div>
+                </div>
+            </div>
+            
+            <h2 class="text-2xl font-semibold mt-8 mb-4">Neutrals (Slate)</h2>
+            <div class="grid grid-cols-5 md:grid-cols-10 gap-2">
+                <div class="text-center"><div class="h-16 bg-slate-50 rounded border border-slate-200"></div><p class="text-xs mt-1">slate-50</p></div>
+                <div class="text-center"><div class="h-16 bg-slate-100 rounded border border-slate-200"></div><p class="text-xs mt-1">slate-100</p></div>
+                <div class="text-center"><div class="h-16 bg-slate-200 rounded border border-slate-300"></div><p class="text-xs mt-1">slate-200</p></div>
+                <div class="text-center"><div class="h-16 bg-slate-300 rounded border border-slate-400"></div><p class="text-xs mt-1">slate-300</p></div>
+                <div class="text-center"><div class="h-16 bg-slate-400 rounded border border-slate-500"></div><p class="text-xs mt-1">slate-400</p></div>
+                <div class="text-center"><div class="h-16 bg-slate-500 rounded border border-slate-600"></div><p class="text-xs mt-1">slate-500</p></div>
+                <div class="text-center"><div class="h-16 bg-slate-600 rounded border border-slate-700"></div><p class="text-xs mt-1">slate-600</p></div>
+                <div class="text-center"><div class="h-16 bg-slate-700 rounded border border-slate-800"></div><p class="text-xs mt-1">slate-700</p></div>
+                <div class="text-center"><div class="h-16 bg-slate-800 rounded border border-slate-900"></div><p class="text-xs mt-1">slate-800</p></div>
+                <div class="text-center"><div class="h-16 bg-slate-900 rounded border border-slate-950"></div><p class="text-xs mt-1">slate-900</p></div>
+            </div>
+        </section>
+
+        <!-- 3. Component Library -->
+        <section id="components" class="mt-16">
+            <h1 class="text-4xl font-bold text-slate-900 border-b pb-4 mb-6">3. Component Library (CSS Assets)</h1>
+
+            <!-- Buttons -->
+            <h2 class="text-2xl font-semibold mt-8 mb-4">Buttons</h2>
+            <div class="bg-white p-8 rounded-lg shadow-sm border space-y-4">
+                <div class="flex items-center gap-4">
+                    <a href="#" class="inline-block bg-brand-orange text-white font-bold text-lg px-10 py-3 rounded-lg shadow-md hover:bg-opacity-90 transition-all">
+                        Brand Orange CTA
+                    </a>
+                    <a href="#" class="inline-block bg-brand-indigo text-white font-bold text-lg px-10 py-3 rounded-lg shadow-lg hover:bg-opacity-90 transition-all">
+                        Accent Indigo CTA
+                    </a>
+                    <a href="#" class="inline-block bg-white text-slate-700 font-semibold text-lg px-10 py-3 rounded-lg shadow-md border border-slate-300 hover:bg-slate-50 transition-all">
+                        Secondary Button
+                    </a>
+                </div>
+                <pre class="bg-slate-900 text-white p-4 rounded-md overflow-x-auto text-sm"><code>&lt;!-- Brand Orange CTA (from lifttested/onboard) --&gt;
+&lt;a href="#" class="inline-block bg-brand-orange text-white font-bold text-lg px-10 py-3 rounded-lg shadow-md hover:bg-opacity-90 transition-all"&gt;
+    Book Your 90-Day Plan
+&lt;/a&gt;
+
+&lt;!-- Accent Indigo CTA (from report) --&gt;
+&lt;a href="#" class="inline-block bg-brand-indigo text-white font-bold text-lg px-10 py-3 rounded-lg shadow-lg hover:bg-opacity-90 transition-all"&gt;
+    Book Your 90-Day Plan
+&lt;/a&gt;
+
+&lt;!-- Secondary/Ghost Button --&gt;
+&lt;a href="#" class="inline-block bg-white text-slate-700 font-semibold text-lg px-10 py-3 rounded-lg shadow-md border border-slate-300 hover:bg-slate-50 transition-all"&gt;
+    Back
+&lt;/a&gt;</code></pre>
+            </div>
+
+            <!-- KPI Cards -->
+            <h2 class="text-2xl font-semibold mt-8 mb-4">KPI Cards</h2>
+            <div class="bg-white p-8 rounded-lg shadow-sm border">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <div class="kpi-card bg-white border border-slate-200 shadow-md p-4">
+                        <h3 class="text-sm font-medium text-slate-500 uppercase tracking-wider">Base KPI Card</h3>
+                        <p class="text-4xl font-bold text-slate-800 mt-1">$70</p>
+                        <p class="text-xs text-slate-400 mt-1">Current</p>
+                    </div>
+                    <div class="kpi-card bg-rose-50 border border-rose-200 shadow-md p-4">
+                        <h3 class="text-sm font-medium text-rose-800 uppercase tracking-wider">Danger/Loss Card</h3>
+                        <p class="text-4xl font-bold text-rose-600 mt-1">1.8 : 1</p>
+                        <p class="text-xs text-rose-700 mt-1">Target: ≥ 2:1</p>
+                    </div>
+                    <div class="kpi-card bg-emerald-50 border border-emerald-200 shadow-md p-4">
+                        <h3 class="text-sm font-medium text-emerald-800 uppercase tracking-wider">Success/Win Card</h3>
+                        <p class="text-4xl font-bold text-emerald-600 mt-1">$68.07</p>
+                        <p class="text-xs text-emerald-700 mt-1">(at 70%)</p>
+                    </div>
+                </div>
+                <pre class="bg-slate-900 text-white p-4 rounded-md overflow-x-auto text-sm mt-6"><code>&lt;!-- Base KPI Card --&gt;
+&lt;div class="kpi-card bg-white border border-slate-200 shadow-md p-4"&gt;
+    &lt;h3 class="text-sm font-medium text-slate-500 uppercase tracking-wider"&gt;Base KPI Card&lt;/h3&gt;
+    &lt;p class="text-4xl font-bold text-slate-800 mt-1"&gt;$70&lt;/p&gt;
+    &lt;p class="text-xs text-slate-400 mt-1"&gt;Current&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- Danger/Loss Variation --&gt;
+&lt;div class="kpi-card bg-rose-50 border border-rose-200 shadow-md p-4"&gt;
+    &lt;h3 class="text-sm font-medium text-rose-800 uppercase tracking-wider"&gt;LTR:CAC Ratio&lt;/h3&gt;
+    &lt;p class="text-4xl font-bold text-rose-600 mt-1"&gt;1.8 : 1&lt;/p&gt;
+    &lt;p class="text-xs text-rose-700 mt-1"&gt;Target: ≥ 2:1&lt;/p&gt;
+&lt;/div&gt;</code></pre>
+            </div>
+
+            <!-- Insight Blocks (Slide 3) -->
+            <h2 class="text-2xl font-semibold mt-8 mb-4">Insight Blocks (from Slide 3)</h2>
+            <div class="bg-white p-8 rounded-lg shadow-sm border">
+                <ul class="grid grid-cols-1 md:grid-cols-2 gap-4 list-none p-0 m-0">
+                    <li class="bg-emerald-50 border border-emerald-200 rounded-lg p-4">
+                        <div class="text-xs font-semibold text-emerald-800 uppercase tracking-wider mb-1">Strongest Channel</div>
+                        <div class="text-lg font-semibold text-emerald-700 mb-1">Email Marketing</div>
+                        <div class="text-sm font-medium text-emerald-600">+45% ROAS improvement</div>
+                    </li>
+                    <li class="bg-rose-50 border border-rose-200 rounded-lg p-4">
+                        <div class="text-xs font-semibold text-rose-800 uppercase tracking-wider mb-1">Biggest Cost Leak</div>
+                        <div class="text-lg font-semibold text-rose-700 mb-1">Facebook Ads</div>
+                        <div class="text-sm font-medium text-rose-600">$280k monthly overspend</div>
+                    </li>
+                </ul>
+                <pre class="bg-slate-900 text-white p-4 rounded-md overflow-x-auto text-sm mt-6"><code>&lt;!-- Win Block --&gt;
+&lt;li class="bg-emerald-50 border border-emerald-200 rounded-lg p-4"&gt;
+    &lt;div class="text-xs font-semibold text-emerald-800 uppercase tracking-wider mb-1"&gt;Strongest Channel&lt;/div&gt;
+    &lt;div class="text-lg font-semibold text-emerald-700 mb-1"&gt;Email Marketing&lt;/div&gt;
+    &lt;div class="text-sm font-medium text-emerald-600"&gt;+45% ROAS improvement&lt;/div&gt;
+&lt;/li&gt;
+
+&lt;!-- Gap/Opportunity Block --&gt;
+&lt;li class="bg-rose-50 border border-rose-200 rounded-lg p-4"&gt;
+    &lt;div class="text-xs font-semibold text-rose-800 uppercase tracking-wider mb-1"&gt;Biggest Cost Leak&lt;/div&gt;
+    &lt;div class="text-lg font-semibold text-rose-700 mb-1"&gt;Facebook Ads&lt;/div&gt;
+    &lt;div class="text-sm font-medium text-rose-600"&gt;$280k monthly overspend&lt;/div&gt;
+&lt;/li&gt;</code></pre>
+            </div>
+            
+            <!-- Status Indicators (Gradient Alert Boxes from 5-slide) -->
+            <h2 class="text-2xl font-semibold mt-8 mb-4">Status Indicators (Gradient Alert Boxes)</h2>
+            <div class="bg-white p-8 rounded-lg shadow-sm border space-y-4">
+                <div class="bg-gradient-to-r from-yellow-100 to-yellow-50 border-l-4 border-yellow-500 p-4 rounded-lg">
+                    <p class="font-semibold text-slate-800">Business Impact / Key Takeaway</p>
+                    <p class="text-sm text-slate-700 mt-1">Use this for important business insights or key takeaways that need emphasis.</p>
+                </div>
+                <div class="bg-gradient-to-r from-blue-100 to-blue-50 border-l-4 border-blue-500 p-4 rounded-lg">
+                    <p class="font-semibold text-slate-800">Metric Highlight</p>
+                    <p class="text-sm text-slate-700 mt-1">Use this to draw attention to important metrics or data points.</p>
+                </div>
+                <div class="bg-gradient-to-r from-green-100 to-green-50 border-l-4 border-green-500 p-4 rounded-lg">
+                    <p class="font-semibold text-slate-800">Success Indicator</p>
+                    <p class="text-sm text-slate-700 mt-1">Use this for positive outcomes, favorable changes, or successful completions.</p>
+                </div>
+                <div class="bg-gradient-to-r from-red-100 to-red-50 border-l-4 border-red-500 p-4 rounded-lg">
+                    <p class="font-semibold text-slate-800">Warning Indicator</p>
+                    <p class="text-sm text-slate-700 mt-1">Use this for adverse changes, warnings, or critical issues that need attention.</p>
+                </div>
+                <pre class="bg-slate-900 text-white p-4 rounded-md overflow-x-auto text-sm mt-6"><code>&lt;!-- Business Impact (Yellow Gradient) --&gt;
+&lt;div class="bg-gradient-to-r from-yellow-100 to-yellow-50 border-l-4 border-yellow-500 p-4 rounded-lg"&gt;
+    &lt;p class="font-semibold text-slate-800"&gt;Key Takeaway: Your LTR:CAC ratio is below target&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- Metric Highlight (Blue Gradient) --&gt;
+&lt;div class="bg-gradient-to-r from-blue-100 to-blue-50 border-l-4 border-blue-500 p-4 rounded-lg"&gt;
+    &lt;p class="font-semibold text-slate-800"&gt;LTR: $70.00&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- Success Indicator (Green Gradient) --&gt;
+&lt;div class="bg-gradient-to-r from-green-100 to-green-50 border-l-4 border-green-500 p-4 rounded-lg"&gt;
+    &lt;p class="font-semibold text-slate-800"&gt;Contribution Margin: $68.07 (at 70%)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- Warning Indicator (Red Gradient) --&gt;
+&lt;div class="bg-gradient-to-r from-red-100 to-red-50 border-l-4 border-red-500 p-4 rounded-lg"&gt;
+    &lt;p class="font-semibold text-slate-800"&gt;Monthly Cost Leak: $280k&lt;/p&gt;
+&lt;/div&gt;</code></pre>
+            </div>
+
+            <!-- Form Elements (from Onboarding) -->
+            <h2 class="text-2xl font-semibold mt-8 mb-4">Form Elements</h2>
+            <div class="bg-white p-8 rounded-lg shadow-sm border max-w-lg">
+                <div class="space-y-4">
+                    <div>
+                        <label class="block font-semibold text-sm text-slate-700 mb-2" for="form-name">Full Name</label>
+                        <input class="w-full px-4 py-3 border-2 border-slate-200 rounded-lg focus:outline-none focus:border-brand-blue focus:ring-2 focus:ring-brand-blue/20 transition" type="text" placeholder="John Smith" id="form-name">
+                    </div>
+                    <div>
+                        <label class="block font-semibold text-sm text-slate-700 mb-2" for="form-select">Annual Revenue Range</label>
+                        <select class="w-full px-4 py-3 border-2 border-slate-200 rounded-lg focus:outline-none focus:border-brand-blue focus:ring-2 focus:ring-brand-blue/20 transition bg-white" id="form-select">
+                            <option value="">Select revenue range</option>
+                            <option value="1m-5m">$1M - $5M</option>
+                            <option value="5m-10m">$5M - $10M</option>
+                        </select>
+                    </div>
+                </div>
+                <pre class="bg-slate-900 text-white p-4 rounded-md overflow-x-auto text-sm mt-6"><code>&lt;!-- Form Input --&gt;
+&lt;div&gt;
+    &lt;label class="block font-semibold text-sm text-slate-700 mb-2" for="form-name"&gt;Full Name&lt;/label&gt;
+    &lt;input class="w-full px-4 py-3 border-2 border-slate-200 rounded-lg focus:outline-none focus:border-brand-blue focus:ring-2 focus:ring-brand-blue/20 transition" type="text" placeholder="John Smith" id="form-name"&gt;
+&lt;/div&gt;
+
+&lt;!-- Form Select --&gt;
+&lt;div&gt;
+    &lt;label class="block font-semibold text-sm text-slate-700 mb-2" for="form-select"&gt;Annual Revenue Range&lt;/label&gt;
+    &lt;select class="w-full px-4 py-3 border-2 border-slate-200 rounded-lg focus:outline-none focus:border-brand-blue focus:ring-2 focus:ring-brand-blue/20 transition bg-white" id="form-select"&gt;
+        &lt;option value=""&gt;Select revenue range&lt;/option&gt;
+        &lt;option value="1m-5m"&gt;$1M - $5M&lt;/option&gt;
+    &lt;/select&gt;
+&lt;/div&gt;</code></pre>
+            </div>
+
+            <!-- Connection Status Badges (from Onboarding) -->
+            <h2 class="text-2xl font-semibold mt-8 mb-4">Connection Status Badges</h2>
+            <div class="bg-white p-8 rounded-lg shadow-sm border">
+                <div class="flex flex-wrap gap-4 items-center">
+                    <span class="px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-red-100 text-red-700">Not Connected</span>
+                    <span class="px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-yellow-100 text-yellow-700">In Progress</span>
+                    <span class="px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-green-100 text-green-700">Connected</span>
+                </div>
+                <pre class="bg-slate-900 text-white p-4 rounded-md overflow-x-auto text-sm mt-6"><code>&lt;!-- Not Connected --&gt;
+&lt;span class="px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-red-100 text-red-700"&gt;
+    Not Connected
+&lt;/span&gt;
+
+&lt;!-- In Progress --&gt;
+&lt;span class="px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-yellow-100 text-yellow-700"&gt;
+    In Progress
+&lt;/span&gt;
+
+&lt;!-- Connected --&gt;
+&lt;span class="px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-green-100 text-green-700"&gt;
+    Connected
+&lt;/span&gt;</code></pre>
+            </div>
+
+            <!-- Spacing Scale -->
+            <h2 class="text-2xl font-semibold mt-8 mb-4">Spacing Scale</h2>
+            <div class="bg-white p-8 rounded-lg shadow-sm border">
+                <div class="space-y-4">
+                    <div class="flex items-center gap-4">
+                        <div class="w-16 text-sm font-mono text-slate-600">p-2</div>
+                        <div class="bg-blue-200 h-8 rounded" style="width: 0.5rem;"></div>
+                        <div class="text-sm text-slate-500">0.5rem (8px)</div>
+                    </div>
+                    <div class="flex items-center gap-4">
+                        <div class="w-16 text-sm font-mono text-slate-600">p-4</div>
+                        <div class="bg-blue-200 h-8 rounded" style="width: 1rem;"></div>
+                        <div class="text-sm text-slate-500">1rem (16px)</div>
+                    </div>
+                    <div class="flex items-center gap-4">
+                        <div class="w-16 text-sm font-mono text-slate-600">p-6</div>
+                        <div class="bg-blue-200 h-8 rounded" style="width: 1.5rem;"></div>
+                        <div class="text-sm text-slate-500">1.5rem (24px)</div>
+                    </div>
+                    <div class="flex items-center gap-4">
+                        <div class="w-16 text-sm font-mono text-slate-600">p-8</div>
+                        <div class="bg-blue-200 h-8 rounded" style="width: 2rem;"></div>
+                        <div class="text-sm text-slate-500">2rem (32px)</div>
+                    </div>
+                    <div class="flex items-center gap-4">
+                        <div class="w-16 text-sm font-mono text-slate-600">p-10</div>
+                        <div class="bg-blue-200 h-8 rounded" style="width: 2.5rem;"></div>
+                        <div class="text-sm text-slate-500">2.5rem (40px)</div>
+                    </div>
+                </div>
+                <p class="text-sm text-slate-600 mt-6">Use Tailwind's spacing scale: <code class="bg-slate-100 px-2 py-1 rounded">p-{size}</code> for padding, <code class="bg-slate-100 px-2 py-1 rounded">m-{size}</code> for margin, <code class="bg-slate-100 px-2 py-1 rounded">gap-{size}</code> for gaps</p>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="text-center p-8 mt-16 border-t border-slate-200">
+        <p class="text-sm text-slate-500">Salvit Advisors Unified Brand System | Last updated: 2025-11-03 by JC</p>
+    </footer>
+
+</body>
+</html>

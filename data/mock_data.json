@@ -15,636 +15,2420 @@
     ],
     "products": [
         {
-            "sku": "CLI-SMA-4240",
+            "sku": "CLI-SMA-74322",
             "client_id": "client_01",
             "titleId": "title_cat_client_01_smartphones_0",
             "categoryId": "cat_client_01_smartphones",
-            "platformTitle": "Smartphones Series A - Model 1",
-            "platform": "Shopify"
-        },
-        {
-            "sku": "CLI-SMA-1083",
-            "client_id": "client_01",
-            "titleId": "title_cat_client_01_smartphones_0",
-            "categoryId": "cat_client_01_smartphones",
-            "platformTitle": "Smartphones Series A - Model 2",
-            "platform": "Shopify"
-        },
-        {
-            "sku": "CLI-SMA-9013",
-            "client_id": "client_01",
-            "titleId": "title_cat_client_01_smartphones_0",
-            "categoryId": "cat_client_01_smartphones",
-            "platformTitle": "Smartphones Series A - Model 3",
-            "platform": "Shopify"
-        },
-        {
-            "sku": "CLI-SMA-9883",
-            "client_id": "client_01",
-            "titleId": "title_cat_client_01_smartphones_0",
-            "categoryId": "cat_client_01_smartphones",
-            "platformTitle": "Smartphones Series A - Model 4",
+            "platformTitle": "Smartphones Series A - Variant 1",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-SMA-8867",
+            "sku": "CLI-SMA-16273",
             "client_id": "client_01",
             "titleId": "title_cat_client_01_smartphones_0",
             "categoryId": "cat_client_01_smartphones",
-            "platformTitle": "Smartphones Series A - Model 5",
+            "platformTitle": "Smartphones Series A - Variant 2",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-SMA-7051",
+            "sku": "CLI-SMA-33745",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Variant 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-SMA-86500",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Variant 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-SMA-60882",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Variant 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-86121",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Variant 6",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-68816",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Variant 7",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-SMA-35751",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-SMA-45521",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Variant 9",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-46450",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-SMA-33317",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Variant 11",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-18288",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Variant 12",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-51404",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_0",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series A - Variant 13",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-SMA-38273",
             "client_id": "client_01",
             "titleId": "title_cat_client_01_smartphones_1",
             "categoryId": "cat_client_01_smartphones",
-            "platformTitle": "Smartphones Series B - Model 1",
-            "platform": "Walmart"
+            "platformTitle": "Smartphones Series B - Variant 1",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-SMA-5720",
+            "sku": "CLI-SMA-41037",
             "client_id": "client_01",
             "titleId": "title_cat_client_01_smartphones_1",
             "categoryId": "cat_client_01_smartphones",
-            "platformTitle": "Smartphones Series B - Model 2",
+            "platformTitle": "Smartphones Series B - Variant 2",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-SMA-8360",
+            "sku": "CLI-SMA-54003",
             "client_id": "client_01",
             "titleId": "title_cat_client_01_smartphones_1",
             "categoryId": "cat_client_01_smartphones",
-            "platformTitle": "Smartphones Series B - Model 3",
+            "platformTitle": "Smartphones Series B - Variant 3",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-SMA-3283",
+            "sku": "CLI-SMA-22032",
             "client_id": "client_01",
             "titleId": "title_cat_client_01_smartphones_1",
             "categoryId": "cat_client_01_smartphones",
-            "platformTitle": "Smartphones Series B - Model 4",
-            "platform": "Walmart"
+            "platformTitle": "Smartphones Series B - Variant 4",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-LAP-9845",
+            "sku": "CLI-SMA-26686",
             "client_id": "client_01",
-            "titleId": "title_cat_client_01_laptops_0",
-            "categoryId": "cat_client_01_laptops",
-            "platformTitle": "Laptops Series A - Model 1",
-            "platform": "Walmart"
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Variant 5",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-LAP-2444",
+            "sku": "CLI-SMA-67455",
             "client_id": "client_01",
-            "titleId": "title_cat_client_01_laptops_0",
-            "categoryId": "cat_client_01_laptops",
-            "platformTitle": "Laptops Series A - Model 2",
-            "platform": "Walmart"
-        },
-        {
-            "sku": "CLI-LAP-6655",
-            "client_id": "client_01",
-            "titleId": "title_cat_client_01_laptops_0",
-            "categoryId": "cat_client_01_laptops",
-            "platformTitle": "Laptops Series A - Model 3",
-            "platform": "Walmart"
-        },
-        {
-            "sku": "CLI-LAP-7167",
-            "client_id": "client_01",
-            "titleId": "title_cat_client_01_laptops_0",
-            "categoryId": "cat_client_01_laptops",
-            "platformTitle": "Laptops Series A - Model 4",
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Variant 6",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-LAP-5585",
+            "sku": "CLI-SMA-35650",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Variant 7",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-42545",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Variant 8",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-20441",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Variant 9",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-45937",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Variant 10",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-SMA-43879",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Variant 11",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-SMA-40226",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_smartphones_1",
+            "categoryId": "cat_client_01_smartphones",
+            "platformTitle": "Smartphones Series B - Variant 12",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-69602",
             "client_id": "client_01",
             "titleId": "title_cat_client_01_laptops_0",
             "categoryId": "cat_client_01_laptops",
-            "platformTitle": "Laptops Series A - Model 5",
+            "platformTitle": "Laptops Series A - Variant 1",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-LAP-6930",
+            "sku": "CLI-LAP-92377",
             "client_id": "client_01",
-            "titleId": "title_cat_client_01_laptops_1",
+            "titleId": "title_cat_client_01_laptops_0",
             "categoryId": "cat_client_01_laptops",
-            "platformTitle": "Laptops Series B - Model 1",
+            "platformTitle": "Laptops Series A - Variant 2",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-LAP-7938",
+            "sku": "CLI-LAP-26589",
             "client_id": "client_01",
-            "titleId": "title_cat_client_01_laptops_1",
+            "titleId": "title_cat_client_01_laptops_0",
             "categoryId": "cat_client_01_laptops",
-            "platformTitle": "Laptops Series B - Model 2",
-            "platform": "Walmart"
+            "platformTitle": "Laptops Series A - Variant 3",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-LAP-2626",
+            "sku": "CLI-LAP-26749",
             "client_id": "client_01",
-            "titleId": "title_cat_client_01_laptops_1",
+            "titleId": "title_cat_client_01_laptops_0",
             "categoryId": "cat_client_01_laptops",
-            "platformTitle": "Laptops Series B - Model 3",
-            "platform": "Walmart"
+            "platformTitle": "Laptops Series A - Variant 4",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-LAP-8903",
+            "sku": "CLI-LAP-47138",
             "client_id": "client_01",
-            "titleId": "title_cat_client_01_laptops_1",
+            "titleId": "title_cat_client_01_laptops_0",
             "categoryId": "cat_client_01_laptops",
-            "platformTitle": "Laptops Series B - Model 4",
-            "platform": "Walmart"
+            "platformTitle": "Laptops Series A - Variant 5",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-LAP-5377",
+            "sku": "CLI-LAP-85995",
             "client_id": "client_01",
-            "titleId": "title_cat_client_01_laptops_1",
+            "titleId": "title_cat_client_01_laptops_0",
             "categoryId": "cat_client_01_laptops",
-            "platformTitle": "Laptops Series B - Model 5",
-            "platform": "Walmart"
-        },
-        {
-            "sku": "CLI-WEA-5482",
-            "client_id": "client_01",
-            "titleId": "title_cat_client_01_wearables_0",
-            "categoryId": "cat_client_01_wearables",
-            "platformTitle": "Wearables Series A - Model 1",
+            "platformTitle": "Laptops Series A - Variant 6",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-WEA-4598",
+            "sku": "CLI-LAP-77386",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Variant 7",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-17376",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-35471",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-48037",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-16924",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Variant 11",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-39721",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Variant 12",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-14123",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Variant 13",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-28707",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Variant 14",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-96994",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_0",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series A - Variant 15",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-88079",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 1",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-92103",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 2",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-98503",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-37947",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-26457",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-13148",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 6",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-47384",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 7",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-39717",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 8",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-20470",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-12675",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 10",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-25197",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 11",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-LAP-48266",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 12",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-LAP-55713",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_laptops_1",
+            "categoryId": "cat_client_01_laptops",
+            "platformTitle": "Laptops Series B - Variant 13",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-41641",
             "client_id": "client_01",
             "titleId": "title_cat_client_01_wearables_0",
             "categoryId": "cat_client_01_wearables",
-            "platformTitle": "Wearables Series A - Model 2",
-            "platform": "Amazon"
+            "platformTitle": "Wearables Series A - Variant 1",
+            "platform": "Shopify"
         },
         {
-            "sku": "CLI-WEA-8841",
+            "sku": "CLI-WEA-44125",
             "client_id": "client_01",
             "titleId": "title_cat_client_01_wearables_0",
             "categoryId": "cat_client_01_wearables",
-            "platformTitle": "Wearables Series A - Model 3",
-            "platform": "Amazon"
+            "platformTitle": "Wearables Series A - Variant 2",
+            "platform": "Shopify"
         },
         {
-            "sku": "CLI-WEA-1201",
+            "sku": "CLI-WEA-87995",
             "client_id": "client_01",
             "titleId": "title_cat_client_01_wearables_0",
             "categoryId": "cat_client_01_wearables",
-            "platformTitle": "Wearables Series A - Model 4",
-            "platform": "Amazon"
+            "platformTitle": "Wearables Series A - Variant 3",
+            "platform": "Shopify"
         },
         {
-            "sku": "CLI-WEA-6270",
+            "sku": "CLI-WEA-38031",
             "client_id": "client_01",
             "titleId": "title_cat_client_01_wearables_0",
             "categoryId": "cat_client_01_wearables",
-            "platformTitle": "Wearables Series A - Model 5",
-            "platform": "Walmart"
+            "platformTitle": "Wearables Series A - Variant 4",
+            "platform": "Shopify"
         },
         {
-            "sku": "CLI-WEA-7967",
+            "sku": "CLI-WEA-73960",
             "client_id": "client_01",
-            "titleId": "title_cat_client_01_wearables_1",
+            "titleId": "title_cat_client_01_wearables_0",
             "categoryId": "cat_client_01_wearables",
-            "platformTitle": "Wearables Series B - Model 1",
+            "platformTitle": "Wearables Series A - Variant 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-98252",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Variant 6",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-WEA-7787",
+            "sku": "CLI-WEA-50450",
             "client_id": "client_01",
-            "titleId": "title_cat_client_01_wearables_1",
+            "titleId": "title_cat_client_01_wearables_0",
             "categoryId": "cat_client_01_wearables",
-            "platformTitle": "Wearables Series B - Model 2",
-            "platform": "Walmart"
-        },
-        {
-            "sku": "CLI-WEA-7750",
-            "client_id": "client_01",
-            "titleId": "title_cat_client_01_wearables_1",
-            "categoryId": "cat_client_01_wearables",
-            "platformTitle": "Wearables Series B - Model 3",
+            "platformTitle": "Wearables Series A - Variant 7",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-WEA-5286",
+            "sku": "CLI-WEA-38649",
             "client_id": "client_01",
-            "titleId": "title_cat_client_01_wearables_1",
+            "titleId": "title_cat_client_01_wearables_0",
             "categoryId": "cat_client_01_wearables",
-            "platformTitle": "Wearables Series B - Model 4",
+            "platformTitle": "Wearables Series A - Variant 8",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-WEA-6814",
+            "sku": "CLI-WEA-71383",
             "client_id": "client_01",
-            "titleId": "title_cat_client_01_wearables_1",
+            "titleId": "title_cat_client_01_wearables_0",
             "categoryId": "cat_client_01_wearables",
-            "platformTitle": "Wearables Series B - Model 5",
+            "platformTitle": "Wearables Series A - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-81164",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Variant 10",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-KIT-1128",
+            "sku": "CLI-WEA-21842",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Variant 11",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-56720",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Variant 12",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-14478",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Variant 13",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-62692",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Variant 14",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-55197",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_0",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series A - Variant 15",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-84757",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-85774",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-86334",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-84551",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-27862",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-93976",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 6",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-38612",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 7",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-45826",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-56726",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-58080",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-24776",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 11",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-WEA-85790",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 12",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-WEA-41721",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_wearables_1",
+            "categoryId": "cat_client_01_wearables",
+            "platformTitle": "Wearables Series B - Variant 13",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-67837",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_0",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series A - Variant 1",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-AUD-68321",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_0",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series A - Variant 2",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-AUD-33164",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_0",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series A - Variant 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-31207",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_0",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series A - Variant 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-AUD-84864",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_0",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series A - Variant 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-30355",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_0",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series A - Variant 6",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-AUD-23831",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_0",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series A - Variant 7",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-95864",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_0",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series A - Variant 8",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-AUD-76979",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_0",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series A - Variant 9",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-AUD-41636",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_0",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series A - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-89482",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_0",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series A - Variant 11",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-AUD-30039",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-78656",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-53410",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-AUD-50965",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-53938",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-AUD-30345",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 6",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-58110",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 7",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-96038",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-14766",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-88985",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-66356",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 11",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-22807",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 12",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-AUD-24631",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 13",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-AUD-81966",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 14",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-AUD-67096",
+            "client_id": "client_01",
+            "titleId": "title_cat_client_01_audio_1",
+            "categoryId": "cat_client_01_audio",
+            "platformTitle": "Audio Series B - Variant 15",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-KIT-55233",
             "client_id": "client_02",
             "titleId": "title_cat_client_02_kitchenware_0",
             "categoryId": "cat_client_02_kitchenware",
-            "platformTitle": "Kitchenware Series A - Model 1",
-            "platform": "Walmart"
+            "platformTitle": "Kitchenware Series A - Variant 1",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-KIT-8672",
+            "sku": "CLI-KIT-97554",
             "client_id": "client_02",
             "titleId": "title_cat_client_02_kitchenware_0",
             "categoryId": "cat_client_02_kitchenware",
-            "platformTitle": "Kitchenware Series A - Model 2",
-            "platform": "Amazon"
+            "platformTitle": "Kitchenware Series A - Variant 2",
+            "platform": "Shopify"
         },
         {
-            "sku": "CLI-KIT-1343",
+            "sku": "CLI-KIT-77900",
             "client_id": "client_02",
             "titleId": "title_cat_client_02_kitchenware_0",
             "categoryId": "cat_client_02_kitchenware",
-            "platformTitle": "Kitchenware Series A - Model 3",
-            "platform": "Shopify"
+            "platformTitle": "Kitchenware Series A - Variant 3",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-KIT-2861",
+            "sku": "CLI-KIT-38283",
             "client_id": "client_02",
             "titleId": "title_cat_client_02_kitchenware_0",
             "categoryId": "cat_client_02_kitchenware",
-            "platformTitle": "Kitchenware Series A - Model 4",
+            "platformTitle": "Kitchenware Series A - Variant 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-28693",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_0",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series A - Variant 5",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-KIT-6554",
+            "sku": "CLI-KIT-70489",
             "client_id": "client_02",
-            "titleId": "title_cat_client_02_kitchenware_1",
+            "titleId": "title_cat_client_02_kitchenware_0",
             "categoryId": "cat_client_02_kitchenware",
-            "platformTitle": "Kitchenware Series B - Model 1",
-            "platform": "Amazon"
-        },
-        {
-            "sku": "CLI-KIT-5432",
-            "client_id": "client_02",
-            "titleId": "title_cat_client_02_kitchenware_1",
-            "categoryId": "cat_client_02_kitchenware",
-            "platformTitle": "Kitchenware Series B - Model 2",
-            "platform": "Walmart"
-        },
-        {
-            "sku": "CLI-KIT-4691",
-            "client_id": "client_02",
-            "titleId": "title_cat_client_02_kitchenware_1",
-            "categoryId": "cat_client_02_kitchenware",
-            "platformTitle": "Kitchenware Series B - Model 3",
-            "platform": "Amazon"
-        },
-        {
-            "sku": "CLI-KIT-6080",
-            "client_id": "client_02",
-            "titleId": "title_cat_client_02_kitchenware_1",
-            "categoryId": "cat_client_02_kitchenware",
-            "platformTitle": "Kitchenware Series B - Model 4",
+            "platformTitle": "Kitchenware Series A - Variant 6",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-BED-9287",
+            "sku": "CLI-KIT-40320",
             "client_id": "client_02",
-            "titleId": "title_cat_client_02_bedding_0",
-            "categoryId": "cat_client_02_bedding",
-            "platformTitle": "Bedding Series A - Model 1",
+            "titleId": "title_cat_client_02_kitchenware_0",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series A - Variant 7",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-BED-4074",
+            "sku": "CLI-KIT-38456",
             "client_id": "client_02",
-            "titleId": "title_cat_client_02_bedding_0",
-            "categoryId": "cat_client_02_bedding",
-            "platformTitle": "Bedding Series A - Model 2",
+            "titleId": "title_cat_client_02_kitchenware_0",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series A - Variant 8",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-22842",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_0",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series A - Variant 9",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-30865",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_0",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series A - Variant 10",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-24551",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_0",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series A - Variant 11",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-BED-1982",
+            "sku": "CLI-KIT-36433",
             "client_id": "client_02",
-            "titleId": "title_cat_client_02_bedding_0",
-            "categoryId": "cat_client_02_bedding",
-            "platformTitle": "Bedding Series A - Model 3",
-            "platform": "Amazon"
-        },
-        {
-            "sku": "CLI-BED-2853",
-            "client_id": "client_02",
-            "titleId": "title_cat_client_02_bedding_0",
-            "categoryId": "cat_client_02_bedding",
-            "platformTitle": "Bedding Series A - Model 4",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Variant 1",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-BED-1403",
+            "sku": "CLI-KIT-22515",
             "client_id": "client_02",
-            "titleId": "title_cat_client_02_bedding_0",
-            "categoryId": "cat_client_02_bedding",
-            "platformTitle": "Bedding Series A - Model 5",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Variant 2",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-BED-5213",
+            "sku": "CLI-KIT-99957",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Variant 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-26124",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Variant 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-75802",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Variant 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-16195",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Variant 6",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-KIT-56627",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Variant 7",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-93007",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-KIT-12988",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Variant 9",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-KIT-68851",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-KIT-83673",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_kitchenware_1",
+            "categoryId": "cat_client_02_kitchenware",
+            "platformTitle": "Kitchenware Series B - Variant 11",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-17471",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-38191",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 2",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-66121",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-32658",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-25789",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-96807",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 6",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-98608",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 7",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-20156",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-63783",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-30515",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-20266",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 11",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-42141",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 12",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-53092",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 13",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-87789",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_0",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series A - Variant 14",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-65637",
             "client_id": "client_02",
             "titleId": "title_cat_client_02_bedding_1",
             "categoryId": "cat_client_02_bedding",
-            "platformTitle": "Bedding Series B - Model 1",
+            "platformTitle": "Bedding Series B - Variant 1",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-BED-2069",
+            "sku": "CLI-BED-97690",
             "client_id": "client_02",
             "titleId": "title_cat_client_02_bedding_1",
             "categoryId": "cat_client_02_bedding",
-            "platformTitle": "Bedding Series B - Model 2",
-            "platform": "Shopify"
+            "platformTitle": "Bedding Series B - Variant 2",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-BED-2021",
+            "sku": "CLI-BED-52597",
             "client_id": "client_02",
             "titleId": "title_cat_client_02_bedding_1",
             "categoryId": "cat_client_02_bedding",
-            "platformTitle": "Bedding Series B - Model 3",
-            "platform": "Amazon"
-        },
-        {
-            "sku": "CLI-FUR-1900",
-            "client_id": "client_02",
-            "titleId": "title_cat_client_02_furniture_0",
-            "categoryId": "cat_client_02_furniture",
-            "platformTitle": "Furniture Series A - Model 1",
-            "platform": "Walmart"
-        },
-        {
-            "sku": "CLI-FUR-5706",
-            "client_id": "client_02",
-            "titleId": "title_cat_client_02_furniture_0",
-            "categoryId": "cat_client_02_furniture",
-            "platformTitle": "Furniture Series A - Model 2",
-            "platform": "Amazon"
-        },
-        {
-            "sku": "CLI-FUR-3899",
-            "client_id": "client_02",
-            "titleId": "title_cat_client_02_furniture_0",
-            "categoryId": "cat_client_02_furniture",
-            "platformTitle": "Furniture Series A - Model 3",
-            "platform": "Amazon"
-        },
-        {
-            "sku": "CLI-FUR-3971",
-            "client_id": "client_02",
-            "titleId": "title_cat_client_02_furniture_0",
-            "categoryId": "cat_client_02_furniture",
-            "platformTitle": "Furniture Series A - Model 4",
-            "platform": "Walmart"
-        },
-        {
-            "sku": "CLI-FUR-3001",
-            "client_id": "client_02",
-            "titleId": "title_cat_client_02_furniture_0",
-            "categoryId": "cat_client_02_furniture",
-            "platformTitle": "Furniture Series A - Model 5",
+            "platformTitle": "Bedding Series B - Variant 3",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-FUR-4205",
+            "sku": "CLI-BED-20487",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Variant 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-81198",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Variant 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-90447",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Variant 6",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-95171",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Variant 7",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-67364",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Variant 8",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-85494",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Variant 9",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-24512",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-96437",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Variant 11",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-BED-82651",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Variant 12",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-BED-20119",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_bedding_1",
+            "categoryId": "cat_client_02_bedding",
+            "platformTitle": "Bedding Series B - Variant 13",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-66635",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-75854",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-19024",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FUR-23760",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-26580",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-69111",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 6",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-54741",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 7",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-24053",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-32795",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-24751",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-26124",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 11",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-73475",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 12",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-92094",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 13",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FUR-52621",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_0",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series A - Variant 14",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-54532",
             "client_id": "client_02",
             "titleId": "title_cat_client_02_furniture_1",
             "categoryId": "cat_client_02_furniture",
-            "platformTitle": "Furniture Series B - Model 1",
-            "platform": "Walmart"
+            "platformTitle": "Furniture Series B - Variant 1",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-FUR-4288",
+            "sku": "CLI-FUR-50096",
             "client_id": "client_02",
             "titleId": "title_cat_client_02_furniture_1",
             "categoryId": "cat_client_02_furniture",
-            "platformTitle": "Furniture Series B - Model 2",
-            "platform": "Shopify"
+            "platformTitle": "Furniture Series B - Variant 2",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-FUR-1936",
+            "sku": "CLI-FUR-71040",
             "client_id": "client_02",
             "titleId": "title_cat_client_02_furniture_1",
             "categoryId": "cat_client_02_furniture",
-            "platformTitle": "Furniture Series B - Model 3",
+            "platformTitle": "Furniture Series B - Variant 3",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FUR-66528",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_1",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series B - Variant 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FUR-41915",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_1",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series B - Variant 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FUR-35328",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_1",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series B - Variant 6",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FUR-57824",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_1",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series B - Variant 7",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-FOO-3446",
+            "sku": "CLI-FUR-28108",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_1",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series B - Variant 8",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FUR-72160",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_1",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series B - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FUR-27272",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_furniture_1",
+            "categoryId": "cat_client_02_furniture",
+            "platformTitle": "Furniture Series B - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-95799",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-57838",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 2",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-18726",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-62223",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-75498",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-97738",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 6",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-80665",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 7",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-13100",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 8",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-10871",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 9",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-36612",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-53335",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 11",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-88876",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 12",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-41387",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 13",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-88866",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 14",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-31002",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_0",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series A - Variant 15",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-20368",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 1",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-66286",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-16842",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-38657",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-94815",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-55553",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 6",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-47983",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 7",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-76897",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-28954",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-75029",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 10",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-DEC-17529",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 11",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-83939",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 12",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-85169",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 13",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-DEC-58311",
+            "client_id": "client_02",
+            "titleId": "title_cat_client_02_decor_1",
+            "categoryId": "cat_client_02_decor",
+            "platformTitle": "Decor Series B - Variant 14",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FOO-75932",
             "client_id": "client_03",
             "titleId": "title_cat_client_03_footwear_0",
             "categoryId": "cat_client_03_footwear",
-            "platformTitle": "Footwear Series A - Model 1",
+            "platformTitle": "Footwear Series A - Variant 1",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-FOO-7537",
+            "sku": "CLI-FOO-91941",
             "client_id": "client_03",
             "titleId": "title_cat_client_03_footwear_0",
             "categoryId": "cat_client_03_footwear",
-            "platformTitle": "Footwear Series A - Model 2",
-            "platform": "Shopify"
+            "platformTitle": "Footwear Series A - Variant 2",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-FOO-7443",
+            "sku": "CLI-FOO-87186",
             "client_id": "client_03",
             "titleId": "title_cat_client_03_footwear_0",
             "categoryId": "cat_client_03_footwear",
-            "platformTitle": "Footwear Series A - Model 3",
-            "platform": "Shopify"
+            "platformTitle": "Footwear Series A - Variant 3",
+            "platform": "Amazon"
         },
         {
-            "sku": "CLI-FOO-4837",
+            "sku": "CLI-FOO-12487",
             "client_id": "client_03",
             "titleId": "title_cat_client_03_footwear_0",
             "categoryId": "cat_client_03_footwear",
-            "platformTitle": "Footwear Series A - Model 4",
+            "platformTitle": "Footwear Series A - Variant 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FOO-72832",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_0",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series A - Variant 5",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-FOO-6123",
+            "sku": "CLI-FOO-78601",
             "client_id": "client_03",
-            "titleId": "title_cat_client_03_footwear_1",
+            "titleId": "title_cat_client_03_footwear_0",
             "categoryId": "cat_client_03_footwear",
-            "platformTitle": "Footwear Series B - Model 1",
-            "platform": "Shopify"
-        },
-        {
-            "sku": "CLI-FOO-3390",
-            "client_id": "client_03",
-            "titleId": "title_cat_client_03_footwear_1",
-            "categoryId": "cat_client_03_footwear",
-            "platformTitle": "Footwear Series B - Model 2",
-            "platform": "Walmart"
-        },
-        {
-            "sku": "CLI-FOO-4938",
-            "client_id": "client_03",
-            "titleId": "title_cat_client_03_footwear_1",
-            "categoryId": "cat_client_03_footwear",
-            "platformTitle": "Footwear Series B - Model 3",
+            "platformTitle": "Footwear Series A - Variant 6",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-FOO-5303",
+            "sku": "CLI-FOO-63518",
             "client_id": "client_03",
-            "titleId": "title_cat_client_03_footwear_1",
+            "titleId": "title_cat_client_03_footwear_0",
             "categoryId": "cat_client_03_footwear",
-            "platformTitle": "Footwear Series B - Model 4",
-            "platform": "Shopify"
-        },
-        {
-            "sku": "CLI-FOO-8581",
-            "client_id": "client_03",
-            "titleId": "title_cat_client_03_footwear_1",
-            "categoryId": "cat_client_03_footwear",
-            "platformTitle": "Footwear Series B - Model 5",
-            "platform": "Shopify"
-        },
-        {
-            "sku": "CLI-APP-3133",
-            "client_id": "client_03",
-            "titleId": "title_cat_client_03_apparel_0",
-            "categoryId": "cat_client_03_apparel",
-            "platformTitle": "Apparel Series A - Model 1",
+            "platformTitle": "Footwear Series A - Variant 7",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-APP-5070",
+            "sku": "CLI-FOO-17805",
             "client_id": "client_03",
-            "titleId": "title_cat_client_03_apparel_0",
-            "categoryId": "cat_client_03_apparel",
-            "platformTitle": "Apparel Series A - Model 2",
+            "titleId": "title_cat_client_03_footwear_0",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series A - Variant 8",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-APP-4208",
+            "sku": "CLI-FOO-36675",
             "client_id": "client_03",
-            "titleId": "title_cat_client_03_apparel_0",
-            "categoryId": "cat_client_03_apparel",
-            "platformTitle": "Apparel Series A - Model 3",
-            "platform": "Walmart"
+            "titleId": "title_cat_client_03_footwear_0",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series A - Variant 9",
+            "platform": "Shopify"
         },
         {
-            "sku": "CLI-APP-4284",
+            "sku": "CLI-FOO-46016",
             "client_id": "client_03",
-            "titleId": "title_cat_client_03_apparel_0",
-            "categoryId": "cat_client_03_apparel",
-            "platformTitle": "Apparel Series A - Model 4",
+            "titleId": "title_cat_client_03_footwear_0",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series A - Variant 10",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-APP-5753",
+            "sku": "CLI-FOO-49939",
             "client_id": "client_03",
-            "titleId": "title_cat_client_03_apparel_0",
-            "categoryId": "cat_client_03_apparel",
-            "platformTitle": "Apparel Series A - Model 5",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Variant 1",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FOO-98386",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Variant 2",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-APP-4681",
+            "sku": "CLI-FOO-97009",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Variant 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FOO-77995",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Variant 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FOO-92636",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Variant 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FOO-94047",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Variant 6",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FOO-29395",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Variant 7",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FOO-55368",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-FOO-70569",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Variant 9",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-FOO-41223",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_footwear_1",
+            "categoryId": "cat_client_03_footwear",
+            "platformTitle": "Footwear Series B - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-77511",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 1",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-APP-85424",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-83295",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-37770",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-APP-20216",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-79020",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 6",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-APP-71406",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 7",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-36284",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-32973",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-52843",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 10",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-APP-35240",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 11",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-APP-55402",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 12",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-APP-46155",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_0",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series A - Variant 13",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-APP-79456",
             "client_id": "client_03",
             "titleId": "title_cat_client_03_apparel_1",
             "categoryId": "cat_client_03_apparel",
-            "platformTitle": "Apparel Series B - Model 1",
-            "platform": "Shopify"
-        },
-        {
-            "sku": "CLI-APP-9832",
-            "client_id": "client_03",
-            "titleId": "title_cat_client_03_apparel_1",
-            "categoryId": "cat_client_03_apparel",
-            "platformTitle": "Apparel Series B - Model 2",
-            "platform": "Shopify"
-        },
-        {
-            "sku": "CLI-APP-5664",
-            "client_id": "client_03",
-            "titleId": "title_cat_client_03_apparel_1",
-            "categoryId": "cat_client_03_apparel",
-            "platformTitle": "Apparel Series B - Model 3",
-            "platform": "Walmart"
-        },
-        {
-            "sku": "CLI-APP-7182",
-            "client_id": "client_03",
-            "titleId": "title_cat_client_03_apparel_1",
-            "categoryId": "cat_client_03_apparel",
-            "platformTitle": "Apparel Series B - Model 4",
+            "platformTitle": "Apparel Series B - Variant 1",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-EQU-3882",
+            "sku": "CLI-APP-98997",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Variant 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-28567",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Variant 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-13073",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Variant 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-72745",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Variant 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-14660",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Variant 6",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-APP-43728",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Variant 7",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-APP-10980",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-52127",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-APP-64505",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_apparel_1",
+            "categoryId": "cat_client_03_apparel",
+            "platformTitle": "Apparel Series B - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-90059",
             "client_id": "client_03",
             "titleId": "title_cat_client_03_equipment_0",
             "categoryId": "cat_client_03_equipment",
-            "platformTitle": "Equipment Series A - Model 1",
-            "platform": "Shopify"
-        },
-        {
-            "sku": "CLI-EQU-5014",
-            "client_id": "client_03",
-            "titleId": "title_cat_client_03_equipment_0",
-            "categoryId": "cat_client_03_equipment",
-            "platformTitle": "Equipment Series A - Model 2",
-            "platform": "Walmart"
-        },
-        {
-            "sku": "CLI-EQU-4520",
-            "client_id": "client_03",
-            "titleId": "title_cat_client_03_equipment_0",
-            "categoryId": "cat_client_03_equipment",
-            "platformTitle": "Equipment Series A - Model 3",
-            "platform": "Shopify"
-        },
-        {
-            "sku": "CLI-EQU-6864",
-            "client_id": "client_03",
-            "titleId": "title_cat_client_03_equipment_1",
-            "categoryId": "cat_client_03_equipment",
-            "platformTitle": "Equipment Series B - Model 1",
+            "platformTitle": "Equipment Series A - Variant 1",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-EQU-2603",
+            "sku": "CLI-EQU-97387",
             "client_id": "client_03",
-            "titleId": "title_cat_client_03_equipment_1",
+            "titleId": "title_cat_client_03_equipment_0",
             "categoryId": "cat_client_03_equipment",
-            "platformTitle": "Equipment Series B - Model 2",
-            "platform": "Walmart"
+            "platformTitle": "Equipment Series A - Variant 2",
+            "platform": "Shopify"
         },
         {
-            "sku": "CLI-EQU-5495",
+            "sku": "CLI-EQU-55229",
             "client_id": "client_03",
-            "titleId": "title_cat_client_03_equipment_1",
+            "titleId": "title_cat_client_03_equipment_0",
             "categoryId": "cat_client_03_equipment",
-            "platformTitle": "Equipment Series B - Model 3",
+            "platformTitle": "Equipment Series A - Variant 3",
             "platform": "Amazon"
         },
         {
-            "sku": "CLI-EQU-7196",
+            "sku": "CLI-EQU-96174",
             "client_id": "client_03",
-            "titleId": "title_cat_client_03_equipment_1",
+            "titleId": "title_cat_client_03_equipment_0",
             "categoryId": "cat_client_03_equipment",
-            "platformTitle": "Equipment Series B - Model 4",
+            "platformTitle": "Equipment Series A - Variant 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-26071",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Variant 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-42591",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Variant 6",
             "platform": "Shopify"
         },
         {
-            "sku": "CLI-EQU-3292",
+            "sku": "CLI-EQU-33341",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Variant 7",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-40255",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Variant 8",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-83637",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-48459",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-76094",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Variant 11",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-55896",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Variant 12",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-23288",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Variant 13",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-29821",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_0",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series A - Variant 14",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-81522",
             "client_id": "client_03",
             "titleId": "title_cat_client_03_equipment_1",
             "categoryId": "cat_client_03_equipment",
-            "platformTitle": "Equipment Series B - Model 5",
+            "platformTitle": "Equipment Series B - Variant 1",
             "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-32774",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Variant 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-38732",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Variant 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-40043",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Variant 4",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-26031",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Variant 5",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-82543",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Variant 6",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-93171",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Variant 7",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-50337",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Variant 8",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-EQU-36757",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Variant 9",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-EQU-88885",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_equipment_1",
+            "categoryId": "cat_client_03_equipment",
+            "platformTitle": "Equipment Series B - Variant 10",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-81406",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_0",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series A - Variant 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-47968",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_0",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series A - Variant 2",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-41858",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_0",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series A - Variant 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-18875",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_0",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series A - Variant 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-66562",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_0",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series A - Variant 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-37107",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_0",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series A - Variant 6",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-78144",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_0",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series A - Variant 7",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-73864",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_0",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series A - Variant 8",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-13455",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_0",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series A - Variant 9",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-95245",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_0",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series A - Variant 10",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-80304",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_0",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series A - Variant 11",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-72346",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 1",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-25489",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 2",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-73785",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 3",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-96121",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 4",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-76207",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 5",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-47902",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 6",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-32954",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 7",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-31522",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 8",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-98452",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 9",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-38553",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 10",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-18946",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 11",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-82605",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 12",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-46415",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 13",
+            "platform": "Amazon"
+        },
+        {
+            "sku": "CLI-NUT-14048",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 14",
+            "platform": "Shopify"
+        },
+        {
+            "sku": "CLI-NUT-71015",
+            "client_id": "client_03",
+            "titleId": "title_cat_client_03_nutrition_1",
+            "categoryId": "cat_client_03_nutrition",
+            "platformTitle": "Nutrition Series B - Variant 15",
+            "platform": "Amazon"
         }
     ],
     "titles": [
@@ -685,6 +2469,18 @@
             "client_id": "client_01"
         },
         {
+            "id": "title_cat_client_01_audio_0",
+            "name": "Audio Series A",
+            "categoryId": "cat_client_01_audio",
+            "client_id": "client_01"
+        },
+        {
+            "id": "title_cat_client_01_audio_1",
+            "name": "Audio Series B",
+            "categoryId": "cat_client_01_audio",
+            "client_id": "client_01"
+        },
+        {
             "id": "title_cat_client_02_kitchenware_0",
             "name": "Kitchenware Series A",
             "categoryId": "cat_client_02_kitchenware",
@@ -718,6 +2514,18 @@
             "id": "title_cat_client_02_furniture_1",
             "name": "Furniture Series B",
             "categoryId": "cat_client_02_furniture",
+            "client_id": "client_02"
+        },
+        {
+            "id": "title_cat_client_02_decor_0",
+            "name": "Decor Series A",
+            "categoryId": "cat_client_02_decor",
+            "client_id": "client_02"
+        },
+        {
+            "id": "title_cat_client_02_decor_1",
+            "name": "Decor Series B",
+            "categoryId": "cat_client_02_decor",
             "client_id": "client_02"
         },
         {
@@ -755,6 +2563,18 @@
             "name": "Equipment Series B",
             "categoryId": "cat_client_03_equipment",
             "client_id": "client_03"
+        },
+        {
+            "id": "title_cat_client_03_nutrition_0",
+            "name": "Nutrition Series A",
+            "categoryId": "cat_client_03_nutrition",
+            "client_id": "client_03"
+        },
+        {
+            "id": "title_cat_client_03_nutrition_1",
+            "name": "Nutrition Series B",
+            "categoryId": "cat_client_03_nutrition",
+            "client_id": "client_03"
         }
     ],
     "categories": [
@@ -774,6 +2594,11 @@
             "client_id": "client_01"
         },
         {
+            "id": "cat_client_01_audio",
+            "name": "Audio",
+            "client_id": "client_01"
+        },
+        {
             "id": "cat_client_02_kitchenware",
             "name": "Kitchenware",
             "client_id": "client_02"
@@ -786,6 +2611,11 @@
         {
             "id": "cat_client_02_furniture",
             "name": "Furniture",
+            "client_id": "client_02"
+        },
+        {
+            "id": "cat_client_02_decor",
+            "name": "Decor",
             "client_id": "client_02"
         },
         {
@@ -802,528 +2632,653 @@
             "id": "cat_client_03_equipment",
             "name": "Equipment",
             "client_id": "client_03"
+        },
+        {
+            "id": "cat_client_03_nutrition",
+            "name": "Nutrition",
+            "client_id": "client_03"
         }
     ],
-    "cogs_rules": [
+    "rules": [
+        {
+            "id": "rule_global_client_01",
+            "client_id": "client_01",
+            "targetType": "GLOBAL",
+            "targetId": null,
+            "value": 25.0,
+            "startDate": null,
+            "endDate": null,
+            "description": "Store-wide Baseline COGS"
+        },
         {
             "id": "rule_cat_cat_client_01_smartphones",
             "client_id": "client_01",
             "targetType": "CATEGORY",
             "targetId": "cat_client_01_smartphones",
-            "value": 57.93,
+            "value": 99.57,
             "startDate": null,
             "endDate": null,
-            "description": "General Smartphones Cost"
+            "description": "Standard Smartphones Cost"
         },
         {
             "id": "rule_cat_cat_client_01_laptops",
             "client_id": "client_01",
             "targetType": "CATEGORY",
             "targetId": "cat_client_01_laptops",
-            "value": 83.49,
+            "value": 89.93,
             "startDate": null,
             "endDate": null,
-            "description": "General Laptops Cost"
+            "description": "Standard Laptops Cost"
         },
         {
             "id": "rule_cat_cat_client_01_wearables",
             "client_id": "client_01",
             "targetType": "CATEGORY",
             "targetId": "cat_client_01_wearables",
-            "value": 114.67,
+            "value": 95.97,
             "startDate": null,
             "endDate": null,
-            "description": "General Wearables Cost"
+            "description": "Standard Wearables Cost"
+        },
+        {
+            "id": "rule_cat_cat_client_01_audio",
+            "client_id": "client_01",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_01_audio",
+            "value": 97.1,
+            "startDate": null,
+            "endDate": null,
+            "description": "Standard Audio Cost"
         },
         {
             "id": "rule_title_title_cat_client_01_smartphones_0",
             "client_id": "client_01",
             "targetType": "TITLE",
             "targetId": "title_cat_client_01_smartphones_0",
-            "value": 208.52,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Bulk Smartphones Series A Pricing"
-        },
-        {
-            "id": "rule_sku_CLI-SMA-4240",
-            "client_id": "client_01",
-            "targetType": "SKU",
-            "targetId": "CLI-SMA-4240",
-            "value": 367.99,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
-        },
-        {
-            "id": "rule_sku_CLI-SMA-1083",
-            "client_id": "client_01",
-            "targetType": "SKU",
-            "targetId": "CLI-SMA-1083",
-            "value": 403.0,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
-        },
-        {
-            "id": "rule_sku_CLI-SMA-8867",
-            "client_id": "client_01",
-            "targetType": "SKU",
-            "targetId": "CLI-SMA-8867",
-            "value": 398.76,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "value": 235.75,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Smartphones Series A"
         },
         {
             "id": "rule_title_title_cat_client_01_smartphones_1",
             "client_id": "client_01",
             "targetType": "TITLE",
             "targetId": "title_cat_client_01_smartphones_1",
-            "value": 248.07,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Bulk Smartphones Series B Pricing"
-        },
-        {
-            "id": "rule_sku_CLI-SMA-3283",
-            "client_id": "client_01",
-            "targetType": "SKU",
-            "targetId": "CLI-SMA-3283",
-            "value": 450.68,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "value": 177.61,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Smartphones Series B"
         },
         {
             "id": "rule_title_title_cat_client_01_laptops_0",
             "client_id": "client_01",
             "targetType": "TITLE",
             "targetId": "title_cat_client_01_laptops_0",
-            "value": 283.19,
-            "startDate": null,
-            "endDate": null,
-            "description": "Bulk Laptops Series A Pricing"
+            "value": 115.91,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Laptops Series A"
         },
         {
-            "id": "rule_sku_CLI-LAP-7167",
+            "id": "rule_sku_CLI-LAP-85995",
             "client_id": "client_01",
             "targetType": "SKU",
-            "targetId": "CLI-LAP-7167",
-            "value": 453.65,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "targetId": "CLI-LAP-85995",
+            "value": 286.34,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
+        },
+        {
+            "id": "rule_sku_CLI-LAP-48037",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-LAP-48037",
+            "value": 330.01,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
         },
         {
             "id": "rule_title_title_cat_client_01_laptops_1",
             "client_id": "client_01",
             "targetType": "TITLE",
             "targetId": "title_cat_client_01_laptops_1",
-            "value": 188.98,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Bulk Laptops Series B Pricing"
-        },
-        {
-            "id": "rule_sku_CLI-LAP-7938",
-            "client_id": "client_01",
-            "targetType": "SKU",
-            "targetId": "CLI-LAP-7938",
-            "value": 399.42,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
-        },
-        {
-            "id": "rule_sku_CLI-LAP-8903",
-            "client_id": "client_01",
-            "targetType": "SKU",
-            "targetId": "CLI-LAP-8903",
-            "value": 444.35,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "value": 136.1,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Laptops Series B"
         },
         {
             "id": "rule_title_title_cat_client_01_wearables_0",
             "client_id": "client_01",
             "targetType": "TITLE",
             "targetId": "title_cat_client_01_wearables_0",
-            "value": 239.3,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Bulk Wearables Series A Pricing"
+            "value": 196.17,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Wearables Series A"
+        },
+        {
+            "id": "rule_sku_CLI-WEA-62692",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-WEA-62692",
+            "value": 344.47,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
         },
         {
             "id": "rule_title_title_cat_client_01_wearables_1",
             "client_id": "client_01",
             "targetType": "TITLE",
             "targetId": "title_cat_client_01_wearables_1",
-            "value": 293.45,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Bulk Wearables Series B Pricing"
+            "value": 168.97,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Wearables Series B"
         },
         {
-            "id": "rule_sku_CLI-WEA-7967",
+            "id": "rule_sku_CLI-WEA-93976",
             "client_id": "client_01",
             "targetType": "SKU",
-            "targetId": "CLI-WEA-7967",
-            "value": 491.22,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "targetId": "CLI-WEA-93976",
+            "value": 393.57,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
         },
         {
-            "id": "rule_sku_CLI-WEA-7787",
+            "id": "rule_sku_CLI-WEA-45826",
             "client_id": "client_01",
             "targetType": "SKU",
-            "targetId": "CLI-WEA-7787",
-            "value": 477.21,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "targetId": "CLI-WEA-45826",
+            "value": 308.93,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
         },
         {
-            "id": "rule_sku_CLI-WEA-7750",
+            "id": "rule_title_title_cat_client_01_audio_0",
             "client_id": "client_01",
-            "targetType": "SKU",
-            "targetId": "CLI-WEA-7750",
-            "value": 346.84,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_01_audio_0",
+            "value": 142.08,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Audio Series A"
         },
         {
-            "id": "rule_sku_CLI-WEA-6814",
+            "id": "rule_sku_CLI-AUD-76979",
             "client_id": "client_01",
             "targetType": "SKU",
-            "targetId": "CLI-WEA-6814",
-            "value": 325.88,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "targetId": "CLI-AUD-76979",
+            "value": 390.13,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
+        },
+        {
+            "id": "rule_title_title_cat_client_01_audio_1",
+            "client_id": "client_01",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_01_audio_1",
+            "value": 162.92,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Audio Series B"
+        },
+        {
+            "id": "rule_sku_CLI-AUD-30039",
+            "client_id": "client_01",
+            "targetType": "SKU",
+            "targetId": "CLI-AUD-30039",
+            "value": 386.65,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
+        },
+        {
+            "id": "rule_global_client_02",
+            "client_id": "client_02",
+            "targetType": "GLOBAL",
+            "targetId": null,
+            "value": 25.0,
+            "startDate": null,
+            "endDate": null,
+            "description": "Store-wide Baseline COGS"
         },
         {
             "id": "rule_cat_cat_client_02_kitchenware",
             "client_id": "client_02",
             "targetType": "CATEGORY",
             "targetId": "cat_client_02_kitchenware",
-            "value": 91.97,
+            "value": 77.27,
             "startDate": null,
             "endDate": null,
-            "description": "General Kitchenware Cost"
+            "description": "Standard Kitchenware Cost"
         },
         {
             "id": "rule_cat_cat_client_02_bedding",
             "client_id": "client_02",
             "targetType": "CATEGORY",
             "targetId": "cat_client_02_bedding",
-            "value": 149.51,
+            "value": 43.61,
             "startDate": null,
             "endDate": null,
-            "description": "General Bedding Cost"
+            "description": "Standard Bedding Cost"
         },
         {
             "id": "rule_cat_cat_client_02_furniture",
             "client_id": "client_02",
             "targetType": "CATEGORY",
             "targetId": "cat_client_02_furniture",
-            "value": 144.29,
+            "value": 80.98,
             "startDate": null,
             "endDate": null,
-            "description": "General Furniture Cost"
+            "description": "Standard Furniture Cost"
+        },
+        {
+            "id": "rule_cat_cat_client_02_decor",
+            "client_id": "client_02",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_02_decor",
+            "value": 56.86,
+            "startDate": null,
+            "endDate": null,
+            "description": "Standard Decor Cost"
         },
         {
             "id": "rule_title_title_cat_client_02_kitchenware_0",
             "client_id": "client_02",
             "targetType": "TITLE",
             "targetId": "title_cat_client_02_kitchenware_0",
-            "value": 167.29,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Bulk Kitchenware Series A Pricing"
+            "value": 195.02,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Kitchenware Series A"
         },
         {
-            "id": "rule_sku_CLI-KIT-1128",
+            "id": "rule_sku_CLI-KIT-97554",
             "client_id": "client_02",
             "targetType": "SKU",
-            "targetId": "CLI-KIT-1128",
-            "value": 498.3,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "targetId": "CLI-KIT-97554",
+            "value": 322.99,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
         },
         {
-            "id": "rule_sku_CLI-KIT-2861",
+            "id": "rule_sku_CLI-KIT-40320",
             "client_id": "client_02",
             "targetType": "SKU",
-            "targetId": "CLI-KIT-2861",
-            "value": 395.57,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "targetId": "CLI-KIT-40320",
+            "value": 332.04,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
         },
         {
             "id": "rule_title_title_cat_client_02_kitchenware_1",
             "client_id": "client_02",
             "targetType": "TITLE",
             "targetId": "title_cat_client_02_kitchenware_1",
-            "value": 249.79,
+            "value": 168.6,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Kitchenware Series B"
+        },
+        {
+            "id": "rule_sku_CLI-KIT-99957",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-KIT-99957",
+            "value": 338.51,
             "startDate": null,
             "endDate": null,
-            "description": "Bulk Kitchenware Series B Pricing"
-        },
-        {
-            "id": "rule_sku_CLI-KIT-4691",
-            "client_id": "client_02",
-            "targetType": "SKU",
-            "targetId": "CLI-KIT-4691",
-            "value": 404.81,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
-        },
-        {
-            "id": "rule_sku_CLI-KIT-6080",
-            "client_id": "client_02",
-            "targetType": "SKU",
-            "targetId": "CLI-KIT-6080",
-            "value": 420.51,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "description": "Manual SKU Override"
         },
         {
             "id": "rule_title_title_cat_client_02_bedding_0",
             "client_id": "client_02",
             "targetType": "TITLE",
             "targetId": "title_cat_client_02_bedding_0",
-            "value": 167.49,
-            "startDate": null,
-            "endDate": null,
-            "description": "Bulk Bedding Series A Pricing"
-        },
-        {
-            "id": "rule_sku_CLI-BED-2853",
-            "client_id": "client_02",
-            "targetType": "SKU",
-            "targetId": "CLI-BED-2853",
-            "value": 372.41,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "value": 175.58,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Bedding Series A"
         },
         {
             "id": "rule_title_title_cat_client_02_bedding_1",
             "client_id": "client_02",
             "targetType": "TITLE",
             "targetId": "title_cat_client_02_bedding_1",
-            "value": 186.0,
+            "value": 116.4,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Bedding Series B"
+        },
+        {
+            "id": "rule_sku_CLI-BED-95171",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-BED-95171",
+            "value": 294.87,
             "startDate": null,
             "endDate": null,
-            "description": "Bulk Bedding Series B Pricing"
+            "description": "Manual SKU Override"
+        },
+        {
+            "id": "rule_sku_CLI-BED-85494",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-BED-85494",
+            "value": 332.08,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
         },
         {
             "id": "rule_title_title_cat_client_02_furniture_0",
             "client_id": "client_02",
             "targetType": "TITLE",
             "targetId": "title_cat_client_02_furniture_0",
-            "value": 245.58,
+            "value": 118.73,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Furniture Series A"
+        },
+        {
+            "id": "rule_sku_CLI-FUR-69111",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-FUR-69111",
+            "value": 292.52,
             "startDate": null,
             "endDate": null,
-            "description": "Bulk Furniture Series A Pricing"
+            "description": "Manual SKU Override"
         },
         {
-            "id": "rule_sku_CLI-FUR-1900",
+            "id": "rule_sku_CLI-FUR-24053",
             "client_id": "client_02",
             "targetType": "SKU",
-            "targetId": "CLI-FUR-1900",
-            "value": 441.5,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "targetId": "CLI-FUR-24053",
+            "value": 371.61,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
         },
         {
-            "id": "rule_sku_CLI-FUR-3001",
+            "id": "rule_sku_CLI-FUR-92094",
             "client_id": "client_02",
             "targetType": "SKU",
-            "targetId": "CLI-FUR-3001",
-            "value": 334.62,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "targetId": "CLI-FUR-92094",
+            "value": 268.35,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
         },
         {
             "id": "rule_title_title_cat_client_02_furniture_1",
             "client_id": "client_02",
             "targetType": "TITLE",
             "targetId": "title_cat_client_02_furniture_1",
-            "value": 193.7,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Bulk Furniture Series B Pricing"
+            "value": 181.39,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Furniture Series B"
+        },
+        {
+            "id": "rule_title_title_cat_client_02_decor_0",
+            "client_id": "client_02",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_02_decor_0",
+            "value": 145.87,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Decor Series A"
+        },
+        {
+            "id": "rule_title_title_cat_client_02_decor_1",
+            "client_id": "client_02",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_02_decor_1",
+            "value": 188.86,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Decor Series B"
+        },
+        {
+            "id": "rule_sku_CLI-DEC-16842",
+            "client_id": "client_02",
+            "targetType": "SKU",
+            "targetId": "CLI-DEC-16842",
+            "value": 291.85,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
+        },
+        {
+            "id": "rule_global_client_03",
+            "client_id": "client_03",
+            "targetType": "GLOBAL",
+            "targetId": null,
+            "value": 25.0,
+            "startDate": null,
+            "endDate": null,
+            "description": "Store-wide Baseline COGS"
         },
         {
             "id": "rule_cat_cat_client_03_footwear",
             "client_id": "client_03",
             "targetType": "CATEGORY",
             "targetId": "cat_client_03_footwear",
-            "value": 141.92,
+            "value": 58.56,
             "startDate": null,
             "endDate": null,
-            "description": "General Footwear Cost"
+            "description": "Standard Footwear Cost"
         },
         {
             "id": "rule_cat_cat_client_03_apparel",
             "client_id": "client_03",
             "targetType": "CATEGORY",
             "targetId": "cat_client_03_apparel",
-            "value": 132.23,
+            "value": 87.55,
             "startDate": null,
             "endDate": null,
-            "description": "General Apparel Cost"
+            "description": "Standard Apparel Cost"
         },
         {
             "id": "rule_cat_cat_client_03_equipment",
             "client_id": "client_03",
             "targetType": "CATEGORY",
             "targetId": "cat_client_03_equipment",
-            "value": 61.56,
+            "value": 49.4,
             "startDate": null,
             "endDate": null,
-            "description": "General Equipment Cost"
+            "description": "Standard Equipment Cost"
+        },
+        {
+            "id": "rule_cat_cat_client_03_nutrition",
+            "client_id": "client_03",
+            "targetType": "CATEGORY",
+            "targetId": "cat_client_03_nutrition",
+            "value": 98.79,
+            "startDate": null,
+            "endDate": null,
+            "description": "Standard Nutrition Cost"
         },
         {
             "id": "rule_title_title_cat_client_03_footwear_0",
             "client_id": "client_03",
             "targetType": "TITLE",
             "targetId": "title_cat_client_03_footwear_0",
-            "value": 223.22,
-            "startDate": null,
-            "endDate": null,
-            "description": "Bulk Footwear Series A Pricing"
-        },
-        {
-            "id": "rule_sku_CLI-FOO-4837",
-            "client_id": "client_03",
-            "targetType": "SKU",
-            "targetId": "CLI-FOO-4837",
-            "value": 331.91,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "value": 141.1,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Footwear Series A"
         },
         {
             "id": "rule_title_title_cat_client_03_footwear_1",
             "client_id": "client_03",
             "targetType": "TITLE",
             "targetId": "title_cat_client_03_footwear_1",
-            "value": 277.57,
+            "value": 229.72,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Footwear Series B"
+        },
+        {
+            "id": "rule_sku_CLI-FOO-94047",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-FOO-94047",
+            "value": 368.33,
             "startDate": null,
             "endDate": null,
-            "description": "Bulk Footwear Series B Pricing"
-        },
-        {
-            "id": "rule_sku_CLI-FOO-3390",
-            "client_id": "client_03",
-            "targetType": "SKU",
-            "targetId": "CLI-FOO-3390",
-            "value": 407.94,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
-        },
-        {
-            "id": "rule_sku_CLI-FOO-5303",
-            "client_id": "client_03",
-            "targetType": "SKU",
-            "targetId": "CLI-FOO-5303",
-            "value": 443.28,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "description": "Manual SKU Override"
         },
         {
             "id": "rule_title_title_cat_client_03_apparel_0",
             "client_id": "client_03",
             "targetType": "TITLE",
             "targetId": "title_cat_client_03_apparel_0",
-            "value": 231.74,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Bulk Apparel Series A Pricing"
+            "value": 191.89,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Apparel Series A"
         },
         {
             "id": "rule_title_title_cat_client_03_apparel_1",
             "client_id": "client_03",
             "targetType": "TITLE",
             "targetId": "title_cat_client_03_apparel_1",
-            "value": 186.17,
-            "startDate": null,
-            "endDate": null,
-            "description": "Bulk Apparel Series B Pricing"
-        },
-        {
-            "id": "rule_sku_CLI-APP-4681",
-            "client_id": "client_03",
-            "targetType": "SKU",
-            "targetId": "CLI-APP-4681",
-            "value": 489.42,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
-        },
-        {
-            "id": "rule_sku_CLI-APP-5664",
-            "client_id": "client_03",
-            "targetType": "SKU",
-            "targetId": "CLI-APP-5664",
-            "value": 422.05,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "value": 122.13,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Apparel Series B"
         },
         {
             "id": "rule_title_title_cat_client_03_equipment_0",
             "client_id": "client_03",
             "targetType": "TITLE",
             "targetId": "title_cat_client_03_equipment_0",
-            "value": 182.72,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Bulk Equipment Series A Pricing"
+            "value": 122.04,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Equipment Series A"
         },
         {
-            "id": "rule_sku_CLI-EQU-4520",
+            "id": "rule_sku_CLI-EQU-97387",
             "client_id": "client_03",
             "targetType": "SKU",
-            "targetId": "CLI-EQU-4520",
-            "value": 329.6,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "targetId": "CLI-EQU-97387",
+            "value": 333.9,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
         },
         {
             "id": "rule_title_title_cat_client_03_equipment_1",
             "client_id": "client_03",
             "targetType": "TITLE",
             "targetId": "title_cat_client_03_equipment_1",
-            "value": 228.4,
-            "startDate": null,
-            "endDate": null,
-            "description": "Bulk Equipment Series B Pricing"
+            "value": 118.68,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Equipment Series B"
         },
         {
-            "id": "rule_sku_CLI-EQU-7196",
+            "id": "rule_sku_CLI-EQU-38732",
             "client_id": "client_03",
             "targetType": "SKU",
-            "targetId": "CLI-EQU-7196",
-            "value": 401.61,
-            "startDate": "2025-12-13",
-            "endDate": "2026-02-11",
-            "description": "Specific SKU Promo Cost"
+            "targetId": "CLI-EQU-38732",
+            "value": 272.49,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
+        },
+        {
+            "id": "rule_sku_CLI-EQU-40043",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-EQU-40043",
+            "value": 337.29,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
+        },
+        {
+            "id": "rule_sku_CLI-EQU-93171",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-EQU-93171",
+            "value": 261.57,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
+        },
+        {
+            "id": "rule_title_title_cat_client_03_nutrition_0",
+            "client_id": "client_03",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_03_nutrition_0",
+            "value": 193.01,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Nutrition Series A"
+        },
+        {
+            "id": "rule_sku_CLI-NUT-41858",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-NUT-41858",
+            "value": 379.28,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
+        },
+        {
+            "id": "rule_sku_CLI-NUT-18875",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-NUT-18875",
+            "value": 377.13,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
+        },
+        {
+            "id": "rule_title_title_cat_client_03_nutrition_1",
+            "client_id": "client_03",
+            "targetType": "TITLE",
+            "targetId": "title_cat_client_03_nutrition_1",
+            "value": 188.06,
+            "startDate": "2025-12-15",
+            "endDate": "2026-02-13",
+            "description": "Q1 Seasonal Cost for Nutrition Series B"
+        },
+        {
+            "id": "rule_sku_CLI-NUT-96121",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-NUT-96121",
+            "value": 305.75,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
+        },
+        {
+            "id": "rule_sku_CLI-NUT-18946",
+            "client_id": "client_03",
+            "targetType": "SKU",
+            "targetId": "CLI-NUT-18946",
+            "value": 333.6,
+            "startDate": null,
+            "endDate": null,
+            "description": "Manual SKU Override"
         }
     ]
 }
